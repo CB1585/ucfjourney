@@ -1,0 +1,19 @@
+@mixin theMix {
+  /*title size and color*/
+  h1 {
+    font-size: $dTextSizeA !important;
+    color: $dtColorOR;
+  }
+  /*paragraph size*/
+  p {
+    font-size: $dTextSizeB;
+  }
+  /*text properties, if statements*/
+  @if $dTextSize > 30px {
+    color: $dtColorGreen;
+  } @else if $dTextSize > 80px {
+    color: $dtColorTN;
+  } @else {
+    color: $dtColorRed;
+  }
+}

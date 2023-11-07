@@ -1,0 +1,9 @@
+@import "mixin"; /*importing other scss files*/
+@import "variables";
+@import "grid";
+@import "normalize.css";
+
+body {
+  background-color: rgb(184, 127, 5); /*background color*/
+  text-align: center; /*text alignment*/
+}
