@@ -44,7 +44,7 @@
     padding: 10px;
     font-size: 50px;
     padding: 10px;
-    color: #360606;
+    color: black;
     font-family: "Archivo", sans-serif; }
 
   h2 {
@@ -70,8 +70,11 @@
     font-size: 50px;
     /*size of the text*/
     padding: 10px;
-    color: #360606;
-    font-family: "Archivo", sans-serif; }
+    color: black;
+    font-family: "Archivo", sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+   }
 
   img {
     width: 18%;
@@ -135,7 +138,7 @@
     padding: 10px;
     font-size: 45px;
     padding: 10px;
-    color: #360606;
+    color: black;
     font-family: "Archivo", sans-serif; }
 
   h2 {
@@ -158,8 +161,11 @@
     padding: 10px;
     font-size: 35px;
     padding: 10px;
-    color: #360606;
-    font-family: "Archivo", sans-serif; }
+    color: black;
+    font-family: "Archivo", sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+   }
 
   img {
     width: 25%;
@@ -214,7 +220,7 @@
     padding: 10px;
     font-size: 30px;
     padding: 10px;
-    color: #360606;
+    color: black;
     font-family: "Archivo", sans-serif; }
 
   h2 {
@@ -237,7 +243,7 @@
     padding: 10px;
     font-size: 30px;
     padding: 10px;
-    color: #360606;
+    color: black;
     font-family: "Archivo", sans-serif; }
 
   img {
